@@ -1,0 +1,241 @@
+{
+    "search_metadata": {
+        "id": "65f4455a969c08a1c098d3a7",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/e12d1557313c8a75/65f4455a969c08a1c098d3a7.json",
+        "created_at": "2024-03-15 12:55:54 UTC",
+        "processed_at": "2024-03-15 12:55:54 UTC",
+        "google_url": "https://www.google.com/search?q=site%3Aaclanthology.org+Zero-shot+learning&oq=site%3Aaclanthology.org+Zero-shot+learning&uule=w+CAIQICIFSW5kaWE&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/e12d1557313c8a75/65f4455a969c08a1c098d3a7.html",
+        "total_time_taken": 3.92
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "site:aclanthology.org Zero-shot learning",
+        "location_requested": "India",
+        "location_used": "India",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "site:aclanthology.org Zero-shot learning",
+        "total_results": 17800,
+        "time_taken_displayed": 0.26,
+        "organic_results_state": "Results for exact spelling"
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Zero-Shot Learning of Language Models for Describing ...",
+            "link": "https://aclanthology.org/Y14-1012.pdf",
+            "redirect_link": "https://www.google.comhttps://aclanthology.org/Y14-1012.pdf",
+            "displayed_link": "https://aclanthology.org › ...",
+            "favicon": "https://serpapi.com/searches/65f4455a969c08a1c098d3a7/images/a164764e59abe88e915b9a8eecc3dc6161e9cb60211c5444cb2fbe061136bbf3.png",
+            "author": "by H Asoh",
+            "cited_by": "Cited by 2",
+            "extracted_cited_by": 2,
+            "date": "2014",
+            "snippet": "We propose a novel framework for zero-shot learning of topic-dependent language models, which enables the learning of language mod-.",
+            "snippet_highlighted_words": [
+                "zero",
+                "shot learning",
+                "learning"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 2,
+            "title": "Zero-shot Learning of Classifiers from Natural Language ...",
+            "link": "https://aclanthology.org/P18-1029",
+            "redirect_link": "https://www.google.comhttps://aclanthology.org/P18-1029",
+            "displayed_link": "https://aclanthology.org › ...",
+            "favicon": "https://serpapi.com/searches/65f4455a969c08a1c098d3a7/images/a164764e59abe88e915b9a8eecc3dc61c21cd1e235292484fc55a1a0b3f5ef53.png",
+            "author": "by S Srivastava",
+            "cited_by": "Cited by 68",
+            "extracted_cited_by": 68,
+            "date": "2018",
+            "snippet": "Humans can efficiently learn new concepts using language. We present a framework through which a set of explanations of a concept can be used to learn a ...",
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 3,
+            "title": "Zshot: An Open-source Framework for Zero-Shot Named ...",
+            "link": "https://aclanthology.org/2023.acl-demo.34",
+            "redirect_link": "https://www.google.comhttps://aclanthology.org/2023.acl-demo.34",
+            "displayed_link": "https://aclanthology.org › 2023.acl-demo.34",
+            "favicon": "https://serpapi.com/searches/65f4455a969c08a1c098d3a7/images/a164764e59abe88e915b9a8eecc3dc6151fb53863752fcb75469072d80f2e2d9.png",
+            "author": "by G Picco",
+            "cited_by": "Cited by 1",
+            "extracted_cited_by": 1,
+            "date": "2023",
+            "snippet": "Abstract. The Zero-Shot Learning (ZSL) task pertains to the identification of entities or relations in texts that were not seen during training.",
+            "snippet_highlighted_words": [
+                "Zero",
+                "Shot Learning"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 4,
+            "title": "Learn to Adapt for Generalized Zero-Shot Text Classification",
+            "link": "https://aclanthology.org/2022.acl-long.39.pdf",
+            "redirect_link": "https://www.google.comhttps://aclanthology.org/2022.acl-long.39.pdf",
+            "displayed_link": "https://aclanthology.org › 2022.acl-long.39.pdf",
+            "favicon": "https://serpapi.com/searches/65f4455a969c08a1c098d3a7/images/a164764e59abe88e915b9a8eecc3dc61f0e6ad7891f8d9a3bc7e608ccc6c3eee.png",
+            "author": "by Y Zhang",
+            "cited_by": "Cited by 10",
+            "extracted_cited_by": 10,
+            "date": "2022",
+            "snippet": "Abstract. Generalized zero-shot text classification aims to classify textual instances from both previ- ously seen classes and incrementally ...",
+            "snippet_highlighted_words": [
+                "zero",
+                "shot"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 5,
+            "title": "Respectful or Toxic? Using Zero-Shot Learning with ...",
+            "link": "https://aclanthology.org/2023.woah-1.6",
+            "redirect_link": "https://www.google.comhttps://aclanthology.org/2023.woah-1.6",
+            "displayed_link": "https://aclanthology.org › 2023.woah-1.6",
+            "favicon": "https://serpapi.com/searches/65f4455a969c08a1c098d3a7/images/a164764e59abe88e915b9a8eecc3dc61c84207d6b25b7ad4b0433b8b3441bce0.png",
+            "author": "by FMP Del Arco",
+            "cited_by": "Cited by 4",
+            "extracted_cited_by": 4,
+            "date": "2023",
+            "snippet": "This paper explores zero-shot learning with prompting for hate speech detection. We investigate how well zero-shot learning can detect hate speech in 3 ...",
+            "snippet_highlighted_words": [
+                "zero",
+                "shot learning",
+                "zero",
+                "shot learning"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 6,
+            "title": "Textual Description Needs to be Refined for Zero-shot ...",
+            "link": "https://aclanthology.org/2022.findings-emnlp.455",
+            "redirect_link": "https://www.google.comhttps://aclanthology.org/2022.findings-emnlp.455",
+            "displayed_link": "https://aclanthology.org › 2022.findings-emnlp.455",
+            "favicon": "https://serpapi.com/searches/65f4455a969c08a1c098d3a7/images/a164764e59abe88e915b9a8eecc3dc6152f56b0acc2227c42a10bc5458685b25.png",
+            "author": "by C Gautam",
+            "cited_by": "Cited by 2",
+            "extracted_cited_by": 2,
+            "date": "2022",
+            "snippet": "Abstract. Zero-Shot Learning (ZSL) has shown great promise at the intersection of vision and language, and generative methods for ZSL are predominant owing ...",
+            "snippet_highlighted_words": [
+                "Zero",
+                "Shot Learning"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 7,
+            "title": "ZeroGen: Efficient Zero-shot Learning via Dataset Generation",
+            "link": "https://aclanthology.org/2022.emnlp-main.801",
+            "redirect_link": "https://www.google.comhttps://aclanthology.org/2022.emnlp-main.801",
+            "displayed_link": "https://aclanthology.org › 2022.emnlp-main.801",
+            "favicon": "https://serpapi.com/searches/65f4455a969c08a1c098d3a7/images/a164764e59abe88e915b9a8eecc3dc619838cc3d3441b5119e4afefd06f88feb.png",
+            "author": "by J Ye",
+            "cited_by": "Cited by 82",
+            "extracted_cited_by": 82,
+            "date": "2022",
+            "snippet": "In this paper, we study a flexible and efficient zero-short learning method, ZeroGen. Given a zero-shot task, we first generate a dataset from scratch using ...",
+            "snippet_highlighted_words": [
+                "zero",
+                "learning",
+                "zero",
+                "shot"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 8,
+            "title": "MULTIINSTRUCT: Improving Multi-Modal Zero-Shot ...",
+            "link": "https://aclanthology.org/2023.acl-long.641.pdf",
+            "redirect_link": "https://www.google.comhttps://aclanthology.org/2023.acl-long.641.pdf",
+            "displayed_link": "https://aclanthology.org › 2023.acl-long.641.pdf",
+            "favicon": "https://serpapi.com/searches/65f4455a969c08a1c098d3a7/images/a164764e59abe88e915b9a8eecc3dc61cfe351b85b4521d36a07f4c705bbb251.png",
+            "author": "by Z Xu",
+            "cited_by": "Cited by 62",
+            "extracted_cited_by": 62,
+            "date": "2023",
+            "snippet": "Experimental re- sults demonstrate strong zero-shot performance on various unseen multimodal tasks and the benefit of transfer learning from a ...",
+            "snippet_highlighted_words": [
+                "zero",
+                "shot",
+                "learning"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 9,
+            "title": "An Incremental Zero-shot Learning Approach for Assessing ...",
+            "link": "https://aclanthology.org/2022.bea-1.8",
+            "redirect_link": "https://www.google.comhttps://aclanthology.org/2022.bea-1.8",
+            "displayed_link": "https://aclanthology.org › 2022.bea-1.8",
+            "favicon": "https://serpapi.com/searches/65f4455a969c08a1c098d3a7/images/a164764e59abe88e915b9a8eecc3dc61fda70374828008c677df1493976b2ee2.png",
+            "author": "by Q Jia",
+            "cited_by": "Cited by 3",
+            "extracted_cited_by": 3,
+            "date": "2022",
+            "snippet": "Abstract. Peer assessment is an effective and efficient pedagogical strategy for delivering feedback to learners. Asking students to provide quality ...",
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 10,
+            "title": "Zero-shot Learning for Grapheme to Phoneme Conversion ...",
+            "link": "https://aclanthology.org/2022.findings-acl.166",
+            "redirect_link": "https://www.google.comhttps://aclanthology.org/2022.findings-acl.166",
+            "displayed_link": "https://aclanthology.org › 2022.findings-acl.166",
+            "favicon": "https://serpapi.com/searches/65f4455a969c08a1c098d3a7/images/a164764e59abe88e915b9a8eecc3dc61c7b1a4acc70d659d7eee9d8b5ef16cca.png",
+            "author": "by X Li",
+            "cited_by": "Cited by 14",
+            "extracted_cited_by": 14,
+            "date": "2022",
+            "snippet": "This work attempts to apply zero-shot learning to approximate G2P models for all low-resource and endangered languages in Glottolog (about 8k languages). For ...",
+            "snippet_highlighted_words": [
+                "zero",
+                "shot learning"
+            ],
+            "source": "aclanthology.org"
+        }
+    ],
+    "related_searches": [
+        {
+            "block_position": 1,
+            "query": "Zero shot learning example",
+            "link": "https://www.google.com/search?sca_esv=cbde20439333e335&q=Zero+shot+learning+example&sa=X&ved=2ahUKEwiB_su7qPaEAxUuBzQIHZewBJMQ1QJ6BAgnEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=Zero+shot+learning+example"
+        },
+        {
+            "block_position": 1,
+            "query": "Zero shot learning pdf",
+            "link": "https://www.google.com/search?sca_esv=cbde20439333e335&q=Zero+shot+learning+pdf&sa=X&ved=2ahUKEwiB_su7qPaEAxUuBzQIHZewBJMQ1QJ6BAgoEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=Zero+shot+learning+pdf"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=site%3Aaclanthology.org+Zero-shot+learning&oq=site%3Aaclanthology.org+Zero-shot+learning&start=10&sourceid=chrome&ie=UTF-8",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=site%3Aaclanthology.org+Zero-shot+learning&oq=site%3Aaclanthology.org+Zero-shot+learning&start=10&sourceid=chrome&ie=UTF-8",
+            "3": "https://www.google.com/search?q=site%3Aaclanthology.org+Zero-shot+learning&oq=site%3Aaclanthology.org+Zero-shot+learning&start=20&sourceid=chrome&ie=UTF-8",
+            "4": "https://www.google.com/search?q=site%3Aaclanthology.org+Zero-shot+learning&oq=site%3Aaclanthology.org+Zero-shot+learning&start=30&sourceid=chrome&ie=UTF-8",
+            "5": "https://www.google.com/search?q=site%3Aaclanthology.org+Zero-shot+learning&oq=site%3Aaclanthology.org+Zero-shot+learning&start=40&sourceid=chrome&ie=UTF-8"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+Zero-shot+learning&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+Zero-shot+learning&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+Zero-shot+learning&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+Zero-shot+learning&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+Zero-shot+learning&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+Zero-shot+learning&start=40"
+        }
+    }
+}

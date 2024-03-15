@@ -1,0 +1,225 @@
+{
+    "search_metadata": {
+        "id": "65f4455e3d6919706a45adfb",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/d702d1723318c6ae/65f4455e3d6919706a45adfb.json",
+        "created_at": "2024-03-15 12:55:58 UTC",
+        "processed_at": "2024-03-15 12:55:58 UTC",
+        "google_url": "https://www.google.com/search?q=site%3Aaclanthology.org+Zero-shot+learning&oq=site%3Aaclanthology.org+Zero-shot+learning&uule=w+CAIQICIFSW5kaWE&start=10&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/d702d1723318c6ae/65f4455e3d6919706a45adfb.html",
+        "total_time_taken": 13.91
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "site:aclanthology.org Zero-shot learning",
+        "location_requested": "India",
+        "location_used": "India",
+        "google_domain": "google.com",
+        "start": 10,
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "site:aclanthology.org Zero-shot learning",
+        "total_results": 25300,
+        "page_number": 2,
+        "time_taken_displayed": 0.26,
+        "organic_results_state": "Results for exact spelling"
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "ZeroGen: Efficient Zero-shot Learning via Dataset Generation",
+            "link": "https://aclanthology.org/2022.emnlp-main.801",
+            "redirect_link": "https://www.google.comhttps://aclanthology.org/2022.emnlp-main.801",
+            "displayed_link": "https://aclanthology.org › 2022.emnlp-main.801",
+            "favicon": "https://serpapi.com/searches/65f4455e3d6919706a45adfb/images/b307364827960e6649ccba307d5cc59473adf3b2589448071f778466c3942ba5.png",
+            "author": "by J Ye",
+            "cited_by": "Cited by 82",
+            "extracted_cited_by": 82,
+            "date": "2022",
+            "snippet": "In this paper, we study a flexible and efficient zero-short learning method, ZeroGen. Given a zero-shot task, we first generate a dataset from scratch using ...",
+            "snippet_highlighted_words": [
+                "zero",
+                "learning",
+                "zero",
+                "shot"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 2,
+            "title": "Zero-shot Text Classification via Reinforced Self-training",
+            "link": "https://aclanthology.org/2020.acl-main.272.pdf",
+            "redirect_link": "https://www.google.comhttps://aclanthology.org/2020.acl-main.272.pdf",
+            "displayed_link": "https://aclanthology.org › 2020.acl-main.272.pdf",
+            "favicon": "https://serpapi.com/searches/65f4455e3d6919706a45adfb/images/b307364827960e6649ccba307d5cc594680aa1f08c117390ff43c25ab4eef4b1.png",
+            "author": "by Z Ye",
+            "cited_by": "Cited by 81",
+            "extracted_cited_by": 81,
+            "date": "2020",
+            "snippet": "Zero-shot learning has been a tough problem since no labeled data is available for unseen classes during training, especially for classes.",
+            "snippet_highlighted_words": [
+                "Zero",
+                "shot learning"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 3,
+            "title": "Few-shot and Zero-shot Approaches to Legal Text ...",
+            "link": "https://aclanthology.org/2021.nllp-1.10.pdf",
+            "redirect_link": "https://www.google.comhttps://aclanthology.org/2021.nllp-1.10.pdf",
+            "displayed_link": "https://aclanthology.org › 2021.nllp-1.10.pdf",
+            "favicon": "https://serpapi.com/searches/65f4455e3d6919706a45adfb/images/b307364827960e6649ccba307d5cc5949806667b19ce2920254ad9f7db081e56.png",
+            "author": "by R Sarkar",
+            "cited_by": "Cited by 8",
+            "extracted_cited_by": 8,
+            "date": "2021",
+            "snippet": "A criticism of such NLP-based approaches to predictive coding, especially with the emergence of more sophisticated deep learning methods, is ...",
+            "snippet_highlighted_words": [
+                "learning"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 4,
+            "title": "Extreme Zero-Shot Learning for Extreme Text Classification",
+            "link": "https://aclanthology.org/2022.naacl-main.399.pdf",
+            "redirect_link": "https://www.google.comhttps://aclanthology.org/2022.naacl-main.399.pdf",
+            "displayed_link": "https://aclanthology.org › 2022.naacl-main.399....",
+            "favicon": "https://serpapi.com/searches/65f4455e3d6919706a45adfb/images/b307364827960e6649ccba307d5cc594428ef6e6d9e072cc07c26a8852c1f74c.png",
+            "author": "by Y Xiong",
+            "cited_by": "Cited by 16",
+            "extracted_cited_by": 16,
+            "date": "2022",
+            "snippet": "The eXtreme Multi-label text Classification. (XMC) problem concerns finding most relevant labels for an input text instance from a large.",
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 5,
+            "title": "Textual Description Needs to be Refined for Zero-shot ...",
+            "link": "https://aclanthology.org/2022.findings-emnlp.455",
+            "redirect_link": "https://www.google.comhttps://aclanthology.org/2022.findings-emnlp.455",
+            "displayed_link": "https://aclanthology.org › 2022.findings-emnlp.455",
+            "favicon": "https://serpapi.com/searches/65f4455e3d6919706a45adfb/images/b307364827960e6649ccba307d5cc594ca0c445b344001e45eded328a6428d72.png",
+            "author": "by C Gautam",
+            "cited_by": "Cited by 2",
+            "extracted_cited_by": 2,
+            "date": "2022",
+            "snippet": "Zero-Shot Learning (ZSL) has shown great promise at the intersection of vision and language, and generative methods for ZSL are predominant owing to their ...",
+            "snippet_highlighted_words": [
+                "Zero",
+                "Shot Learning"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 6,
+            "title": "Zero-Shot Transfer Learning for Event Extraction",
+            "link": "https://aclanthology.org/P18-1201.pdf",
+            "redirect_link": "https://www.google.comhttps://aclanthology.org/P18-1201.pdf",
+            "displayed_link": "https://aclanthology.org › ...",
+            "favicon": "https://serpapi.com/searches/65f4455e3d6919706a45adfb/images/b307364827960e6649ccba307d5cc594871fed9731bb1709b41cad337eb189ca.png",
+            "author": "by L Huang",
+            "cited_by": "Cited by 192",
+            "extracted_cited_by": 192,
+            "date": "2018",
+            "snippet": "Most previous supervised event extraction methods have relied on features derived from manual annotations, and thus can- not be applied to new event types ...",
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 7,
+            "title": "Zero-shot Learning for Grapheme to Phoneme Conversion ...",
+            "link": "https://aclanthology.org/2022.findings-acl.166",
+            "redirect_link": "https://www.google.comhttps://aclanthology.org/2022.findings-acl.166",
+            "displayed_link": "https://aclanthology.org › 2022.findings-acl.166",
+            "favicon": "https://serpapi.com/searches/65f4455e3d6919706a45adfb/images/b307364827960e6649ccba307d5cc59495198d4d046f3343a1ac7a1912b22779.png",
+            "author": "by X Li",
+            "cited_by": "Cited by 14",
+            "extracted_cited_by": 14,
+            "date": "2022",
+            "snippet": "Most existing work focuses heavily on languages with abundant training datasets, which limits the scope of target languages to less than 100 languages. This ...",
+            "snippet_highlighted_words": [
+                "training"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 8,
+            "title": "The COT COLLECTION: Improving Zero-shot and Few- ...",
+            "link": "https://aclanthology.org/2023.emnlp-main.782.pdf",
+            "redirect_link": "https://www.google.comhttps://aclanthology.org/2023.emnlp-main.782.pdf",
+            "displayed_link": "https://aclanthology.org › 2023.emnlp-main.782....",
+            "favicon": "https://serpapi.com/searches/65f4455e3d6919706a45adfb/images/b307364827960e6649ccba307d5cc59494ffcef90f52dac781747d6dfbc921bd.png",
+            "author": "by S Kim",
+            "cited_by": "Cited by 14",
+            "extracted_cited_by": 14,
+            "date": "2023",
+            "snippet": "In the zero-shot learning setting, CoT-T5 (3B &. 11B) outperforms Flan-T5 (3B & 11B) by +4.34% and +2.60% on average accuracy across 27 datasets.",
+            "snippet_highlighted_words": [
+                "zero",
+                "shot learning"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 9,
+            "title": "An Incremental Zero-shot Learning Approach for Assessing ...",
+            "link": "https://aclanthology.org/2022.bea-1.8",
+            "redirect_link": "https://www.google.comhttps://aclanthology.org/2022.bea-1.8",
+            "displayed_link": "https://aclanthology.org › 2022.bea-1.8",
+            "favicon": "https://serpapi.com/searches/65f4455e3d6919706a45adfb/images/b307364827960e6649ccba307d5cc594f77b1095c3d1c532ec97209552349244.png",
+            "author": "by Q Jia",
+            "cited_by": "Cited by 3",
+            "extracted_cited_by": 3,
+            "date": "2022",
+            "snippet": "In other words, collecting adequate peer feedback for training a supervised algorithm can take several semesters before the model can be deployed to a new class ...",
+            "snippet_highlighted_words": [
+                "training"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 10,
+            "title": "Don't Prompt, Search! Mining-based Zero-Shot Learning ...",
+            "link": "https://aclanthology.org/2022.emnlp-main.509",
+            "redirect_link": "https://www.google.comhttps://aclanthology.org/2022.emnlp-main.509",
+            "displayed_link": "https://aclanthology.org › 2022.emnlp-main.509",
+            "favicon": "https://serpapi.com/searches/65f4455e3d6919706a45adfb/images/b307364827960e6649ccba307d5cc594f4b0c912645a1b520924d899c0488b23.png",
+            "author": "by M van de Kar",
+            "cited_by": "Cited by 11",
+            "extracted_cited_by": 11,
+            "date": "2022",
+            "snippet": "In this paper, we propose an alternative mining-based approach for zero-shot learning. Instead of prompting language models, we use regular expressions to mine ...",
+            "snippet_highlighted_words": [
+                "zero",
+                "shot learning"
+            ],
+            "source": "aclanthology.org"
+        }
+    ],
+    "pagination": {
+        "current": 2,
+        "next": "https://www.google.com/search?q=site%3Aaclanthology.org+Zero-shot+learning&oq=site%3Aaclanthology.org+Zero-shot+learning&start=20&sourceid=chrome&ie=UTF-8",
+        "previous": "https://www.google.com/search?q=site%3Aaclanthology.org+Zero-shot+learning&oq=site%3Aaclanthology.org+Zero-shot+learning&start=0&sourceid=chrome&ie=UTF-8",
+        "other_pages": {
+            "1": "https://www.google.com/search?q=site%3Aaclanthology.org+Zero-shot+learning&oq=site%3Aaclanthology.org+Zero-shot+learning&start=0&sourceid=chrome&ie=UTF-8",
+            "3": "https://www.google.com/search?q=site%3Aaclanthology.org+Zero-shot+learning&oq=site%3Aaclanthology.org+Zero-shot+learning&start=20&sourceid=chrome&ie=UTF-8",
+            "4": "https://www.google.com/search?q=site%3Aaclanthology.org+Zero-shot+learning&oq=site%3Aaclanthology.org+Zero-shot+learning&start=30&sourceid=chrome&ie=UTF-8",
+            "5": "https://www.google.com/search?q=site%3Aaclanthology.org+Zero-shot+learning&oq=site%3Aaclanthology.org+Zero-shot+learning&start=40&sourceid=chrome&ie=UTF-8"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 2,
+        "previous_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+Zero-shot+learning&start=0",
+        "previous": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+Zero-shot+learning&start=0",
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+Zero-shot+learning&start=20",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+Zero-shot+learning&start=20",
+        "other_pages": {
+            "1": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+Zero-shot+learning&start=0",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+Zero-shot+learning&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+Zero-shot+learning&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+Zero-shot+learning&start=40"
+        }
+    }
+}

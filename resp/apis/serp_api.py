@@ -115,6 +115,7 @@ class Serp(object):
         data = seng.get_dict()
         all_results = {}
 
+        # print(data.keys())
         url = [
             links["inline_links"]["cited_by"]["serpapi_scholar_link"]
             for links in data["organic_results"]

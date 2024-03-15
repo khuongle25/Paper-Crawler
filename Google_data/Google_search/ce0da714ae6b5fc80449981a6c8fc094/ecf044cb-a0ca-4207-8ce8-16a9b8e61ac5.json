@@ -1,0 +1,220 @@
+{
+    "search_metadata": {
+        "id": "65f4457196f5d756e2aabe73",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/0995c693344ef2c9/65f4457196f5d756e2aabe73.json",
+        "created_at": "2024-03-15 12:56:17 UTC",
+        "processed_at": "2024-03-15 12:56:17 UTC",
+        "google_url": "https://www.google.com/search?q=site%3Aproceedings.mlr.press+Zero-shot+learning&oq=site%3Aproceedings.mlr.press+Zero-shot+learning&uule=w+CAIQICIFSW5kaWE&start=10&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/0995c693344ef2c9/65f4457196f5d756e2aabe73.html",
+        "total_time_taken": 14.62
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "site:proceedings.mlr.press Zero-shot learning",
+        "location_requested": "India",
+        "location_used": "India",
+        "google_domain": "google.com",
+        "start": 10,
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "site:proceedings.mlr.press Zero-shot learning",
+        "total_results": 3870,
+        "page_number": 2,
+        "time_taken_displayed": 0.31,
+        "organic_results_state": "Results for exact spelling"
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Zero-Shot Knowledge Distillation in Deep Networks",
+            "link": "http://proceedings.mlr.press/v97/nayak19a/nayak19a.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://proceedings.mlr.press/v97/nayak19a/nayak19a.pdf&ved=2ahUKEwjg5cXLqPaEAxWRSDABHR6BBMA4ChAWegQIDRAB",
+            "displayed_link": "http://proceedings.mlr.press › ...",
+            "favicon": "https://serpapi.com/searches/65f4457196f5d756e2aabe73/images/d7fe6bf75c7c1aca351f28d6693a97ff78fde04d99bdab2598b5d55ca07d0c60.png",
+            "author": "by GK Nayak",
+            "cited_by": "Cited by 237",
+            "extracted_cited_by": 237,
+            "date": "2019",
+            "snippet": "Existing approaches use either the training data or meta-data extracted from it in order to train the Student. However, accessing the dataset on which the ...",
+            "snippet_highlighted_words": [
+                "training"
+            ],
+            "source": "mlr.press"
+        },
+        {
+            "position": 2,
+            "title": "Zero-Shot Text-to-Image Generation",
+            "link": "https://proceedings.mlr.press/v139/ramesh21a.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://proceedings.mlr.press/v139/ramesh21a.html&ved=2ahUKEwjg5cXLqPaEAxWRSDABHR6BBMA4ChAWegQIDxAB",
+            "displayed_link": "https://proceedings.mlr.press › ...",
+            "favicon": "https://serpapi.com/searches/65f4457196f5d756e2aabe73/images/d7fe6bf75c7c1aca351f28d6693a97ffe40c99363ea67b29187ebba46d55476d.png",
+            "author": "by A Ramesh",
+            "cited_by": "Cited by 3355",
+            "extracted_cited_by": 3355,
+            "date": "2021",
+            "snippet": "Proceedings of the 38th International Conference on Machine Learning, PMLR 139:8821-8831, 2021. Abstract. Text-to-image generation has traditionally focused on ...",
+            "snippet_highlighted_words": [
+                "Learning"
+            ],
+            "source": "mlr.press"
+        },
+        {
+            "position": 3,
+            "title": "Context-Aware Zero-Shot Learning for Object Recognition",
+            "link": "https://proceedings.mlr.press/v97/zablocki19a.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://proceedings.mlr.press/v97/zablocki19a.html&ved=2ahUKEwjg5cXLqPaEAxWRSDABHR6BBMA4ChAWegQICxAB",
+            "displayed_link": "https://proceedings.mlr.press › ...",
+            "favicon": "https://serpapi.com/searches/65f4457196f5d756e2aabe73/images/d7fe6bf75c7c1aca351f28d6693a97ffcaf1ce4f3ae321689ce99d281bf11c22.png",
+            "author": "by E Zablocki",
+            "cited_by": "Cited by 38",
+            "extracted_cited_by": 38,
+            "date": "2019",
+            "snippet": "Following the intuitive principle that objects tend to be found in certain contexts but not others, we propose a new and challenging approach, context-aware ZSL ...",
+            "source": "mlr.press"
+        },
+        {
+            "position": 4,
+            "title": "Zero-Shot Task Generalization with Robotic Imitation Learning",
+            "link": "https://proceedings.mlr.press/v164/jang22a/jang22a.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://proceedings.mlr.press/v164/jang22a/jang22a.pdf&ved=2ahUKEwjg5cXLqPaEAxWRSDABHR6BBMA4ChAWegQIDhAB",
+            "displayed_link": "https://proceedings.mlr.press › ...",
+            "favicon": "https://serpapi.com/searches/65f4457196f5d756e2aabe73/images/d7fe6bf75c7c1aca351f28d6693a97ffb7ca054f792fc3d7e16e1c6834784b04.png",
+            "author": "by E Jang",
+            "cited_by": "Cited by 285",
+            "extracted_cited_by": 285,
+            "date": "2022",
+            "snippet": "Our main contribution is an empirical study of a large-scale interactive imitation learning system that solves a breadth of tasks, including zero-shot and few- ...",
+            "snippet_highlighted_words": [
+                "learning",
+                "zero",
+                "shot"
+            ],
+            "source": "mlr.press"
+        },
+        {
+            "position": 5,
+            "title": "Co-Representation Network for Generalized Zero-Shot Learning",
+            "link": "https://proceedings.mlr.press/v97/zhang19l.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://proceedings.mlr.press/v97/zhang19l.html&ved=2ahUKEwjg5cXLqPaEAxWRSDABHR6BBMA4ChAWegQICRAB",
+            "displayed_link": "https://proceedings.mlr.press › ...",
+            "favicon": "https://serpapi.com/searches/65f4457196f5d756e2aabe73/images/d7fe6bf75c7c1aca351f28d6693a97ff09e4f9b9a4849d0e2230060306d45119.png",
+            "author": "by F Zhang",
+            "cited_by": "Cited by 77",
+            "extracted_cited_by": 77,
+            "date": "2019",
+            "snippet": "The network consists of a cooperation module for representation and a relation module for classification, it is simple in structure and can be easily trained in ...",
+            "source": "mlr.press"
+        },
+        {
+            "position": 6,
+            "title": "Zero-shot AutoML with Pretrained Models",
+            "link": "https://proceedings.mlr.press/v162/ozturk22a.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://proceedings.mlr.press/v162/ozturk22a.html&ved=2ahUKEwjg5cXLqPaEAxWRSDABHR6BBMA4ChAWegQIChAB",
+            "displayed_link": "https://proceedings.mlr.press › ...",
+            "favicon": "https://serpapi.com/searches/65f4457196f5d756e2aabe73/images/d7fe6bf75c7c1aca351f28d6693a97fff97f001bc5cf1f85c5a543c90ff2e0ea.png",
+            "author": "by E Öztürk",
+            "cited_by": "Cited by 6",
+            "extracted_cited_by": 6,
+            "date": "2022",
+            "snippet": "Proceedings of the 39th International Conference on Machine Learning, PMLR 162:17138-17155, 2022. Abstract. Given a new dataset D and a low compute budget, how ...",
+            "snippet_highlighted_words": [
+                "Learning"
+            ],
+            "source": "mlr.press"
+        },
+        {
+            "position": 7,
+            "title": "Zero-Shot Knowledge Distillation from a Decision-Based ...",
+            "link": "https://proceedings.mlr.press/v139/wang21a.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://proceedings.mlr.press/v139/wang21a.html&ved=2ahUKEwjg5cXLqPaEAxWRSDABHR6BBMA4ChAWegQIDBAB",
+            "displayed_link": "https://proceedings.mlr.press › ...",
+            "favicon": "https://serpapi.com/searches/65f4457196f5d756e2aabe73/images/d7fe6bf75c7c1aca351f28d6693a97ff597be796baee04ecce86231c9070c5e0.png",
+            "author": "by Z Wang",
+            "cited_by": "Cited by 33",
+            "extracted_cited_by": 33,
+            "date": "2021",
+            "snippet": "Proceedings of the 38th International Conference on Machine Learning, PMLR 139:10675-10685, 2021. Abstract. Knowledge distillation (KD) is a successful approach ...",
+            "snippet_highlighted_words": [
+                "Learning"
+            ],
+            "source": "mlr.press"
+        },
+        {
+            "position": 8,
+            "title": "Zero-Shot Reward Specification via Grounded Natural ...",
+            "link": "https://proceedings.mlr.press/v162/mahmoudieh22a/mahmoudieh22a.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://proceedings.mlr.press/v162/mahmoudieh22a/mahmoudieh22a.pdf&ved=2ahUKEwjg5cXLqPaEAxWRSDABHR6BBMA4ChAWegQIIBAB",
+            "displayed_link": "https://proceedings.mlr.press › ...",
+            "favicon": "https://serpapi.com/searches/65f4457196f5d756e2aabe73/images/d7fe6bf75c7c1aca351f28d6693a97ff2ae9c8f8d26e4c4877a127056f91604c.png",
+            "author": "by P Mahmoudieh",
+            "cited_by": "Cited by 33",
+            "extracted_cited_by": 33,
+            "date": "2022",
+            "snippet": "Reward signals in reinforcement learning are ex- pensive to design and often require access to the true state which is not available in the real world.",
+            "snippet_highlighted_words": [
+                "learning"
+            ],
+            "source": "mlr.press"
+        },
+        {
+            "position": 9,
+            "title": "“Other-Play” for Zero-Shot Coordination",
+            "link": "https://proceedings.mlr.press/v119/hu20a.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://proceedings.mlr.press/v119/hu20a.html&ved=2ahUKEwjg5cXLqPaEAxWRSDABHR6BBMA4ChAWegQIHxAB",
+            "displayed_link": "https://proceedings.mlr.press › ...",
+            "favicon": "https://serpapi.com/searches/65f4457196f5d756e2aabe73/images/d7fe6bf75c7c1aca351f28d6693a97ff5688d5306a636fed8b6e8740b188c83a.png",
+            "author": "by H Hu",
+            "cited_by": "Cited by 147",
+            "extracted_cited_by": 147,
+            "date": "2020",
+            "snippet": "Standard Multi-Agent Reinforcement Learning (MARL) methods typically focus on the self-play (SP) setting where agents construct strategies by playing the game ...",
+            "snippet_highlighted_words": [
+                "Learning"
+            ],
+            "source": "mlr.press"
+        },
+        {
+            "position": 10,
+            "title": "``Other-Play'' for Zero-Shot Coordination",
+            "link": "http://proceedings.mlr.press/v119/hu20a/hu20a.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://proceedings.mlr.press/v119/hu20a/hu20a.pdf&ved=2ahUKEwjg5cXLqPaEAxWRSDABHR6BBMA4ChAWegQIHhAB",
+            "displayed_link": "http://proceedings.mlr.press › ...",
+            "favicon": "https://serpapi.com/searches/65f4457196f5d756e2aabe73/images/d7fe6bf75c7c1aca351f28d6693a97ff398238c15f10706dbeff7ac34b16e1e1.png",
+            "author": "by H Hu",
+            "cited_by": "Cited by 148",
+            "extracted_cited_by": 148,
+            "date": "2020",
+            "snippet": "Standard Multi-Agent Reinforcement. Learning (MARL) methods typically focus on the self-play (SP) setting where agents construct strategies by playing the game ...",
+            "snippet_highlighted_words": [
+                "Learning"
+            ],
+            "source": "mlr.press"
+        }
+    ],
+    "pagination": {
+        "current": 2,
+        "next": "https://www.google.com/search?q=site%3Aproceedings.mlr.press+Zero-shot+learning&oq=site%3Aproceedings.mlr.press+Zero-shot+learning&start=20&sourceid=chrome&ie=UTF-8",
+        "previous": "https://www.google.com/search?q=site%3Aproceedings.mlr.press+Zero-shot+learning&oq=site%3Aproceedings.mlr.press+Zero-shot+learning&start=0&sourceid=chrome&ie=UTF-8",
+        "other_pages": {
+            "1": "https://www.google.com/search?q=site%3Aproceedings.mlr.press+Zero-shot+learning&oq=site%3Aproceedings.mlr.press+Zero-shot+learning&start=0&sourceid=chrome&ie=UTF-8",
+            "3": "https://www.google.com/search?q=site%3Aproceedings.mlr.press+Zero-shot+learning&oq=site%3Aproceedings.mlr.press+Zero-shot+learning&start=20&sourceid=chrome&ie=UTF-8",
+            "4": "https://www.google.com/search?q=site%3Aproceedings.mlr.press+Zero-shot+learning&oq=site%3Aproceedings.mlr.press+Zero-shot+learning&start=30&sourceid=chrome&ie=UTF-8",
+            "5": "https://www.google.com/search?q=site%3Aproceedings.mlr.press+Zero-shot+learning&oq=site%3Aproceedings.mlr.press+Zero-shot+learning&start=40&sourceid=chrome&ie=UTF-8"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 2,
+        "previous_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aproceedings.mlr.press+Zero-shot+learning&start=0",
+        "previous": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aproceedings.mlr.press+Zero-shot+learning&start=0",
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aproceedings.mlr.press+Zero-shot+learning&start=20",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aproceedings.mlr.press+Zero-shot+learning&start=20",
+        "other_pages": {
+            "1": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aproceedings.mlr.press+Zero-shot+learning&start=0",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aproceedings.mlr.press+Zero-shot+learning&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aproceedings.mlr.press+Zero-shot+learning&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aproceedings.mlr.press+Zero-shot+learning&start=40"
+        }
+    }
+}

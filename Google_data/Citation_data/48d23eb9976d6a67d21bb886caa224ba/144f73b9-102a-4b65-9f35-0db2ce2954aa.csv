@@ -1,0 +1,4 @@
+title,link,snippet
+Exploring the Impact of Knowledge Graphs on Zero-Shot Visual Object State Classification,http://users.ics.forth.gr/~argyros/mypapers/2024_02_VISAPP_Gouidis.pdf,"In this work, we explore the potential of Knowledge Graphs (KGs) towards an effective Zero-Shot Learning (ZSL) approach for Object State Classification (OSC) in images. For this …"
+Knowledge Relevance BERT: Integrating Noisy Knowledge into Language Representations,https://knowledge-nlp.github.io/aaai2023/papers/005-KRBERT-oral.pdf,Integrating structured knowledge into language model representations increases recall of domain-specific information useful for downstream tasks. Matching between knowledge …
+実世界へ挑む機械学習,http://www.nlab.ci.i.u-tokyo.ac.jp/pdf/ieice2021ml.pdf,"現在の機械学習の成功を支える中心的なアプローチである教師あり学習では, 対象とするタスクの入出力関係を網羅した大規模なラベル付き訓練データセットの存在を前提とする …"

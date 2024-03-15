@@ -1,0 +1,235 @@
+{
+    "search_metadata": {
+        "id": "65f4456dd5b1c52ea60cb176",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/90f1179791e0c701/65f4456dd5b1c52ea60cb176.json",
+        "created_at": "2024-03-15 12:56:13 UTC",
+        "processed_at": "2024-03-15 12:56:13 UTC",
+        "google_url": "https://www.google.com/search?q=site%3Aproceedings.mlr.press+Zero-shot+learning&oq=site%3Aproceedings.mlr.press+Zero-shot+learning&uule=w+CAIQICIFSW5kaWE&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/90f1179791e0c701/65f4456dd5b1c52ea60cb176.html",
+        "total_time_taken": 3.24
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "site:proceedings.mlr.press Zero-shot learning",
+        "location_requested": "India",
+        "location_used": "India",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "site:proceedings.mlr.press Zero-shot learning",
+        "total_results": 3550,
+        "time_taken_displayed": 0.32,
+        "organic_results_state": "Results for exact spelling"
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "An embarrassingly simple approach to zero-shot learning",
+            "link": "https://proceedings.mlr.press/v37/romera-paredes15.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://proceedings.mlr.press/v37/romera-paredes15.pdf&ved=2ahUKEwjwlLLEqPaEAxWaMzQIHRltDcUQFnoECAYQAQ",
+            "displayed_link": "https://proceedings.mlr.press › romera-paredes15",
+            "favicon": "https://serpapi.com/searches/65f4456dd5b1c52ea60cb176/images/9117c2d6722dbf52fd6b25deaa4332f62a7d6def5d9ee9404d95b0fbe94ce3ad.png",
+            "author": "by B Romera-Paredes",
+            "cited_by": "Cited by 1389",
+            "snippet": "Zero-shot learning consists in learning how to recognise new concepts by just having a descrip- tion of them. Many sophisticated approaches.",
+            "snippet_highlighted_words": [
+                "Zero",
+                "shot learning"
+            ],
+            "source": "mlr.press"
+        },
+        {
+            "position": 2,
+            "title": "SDM-Net: A Simple and Effective Model for Generalized Zero ...",
+            "link": "https://proceedings.mlr.press/v161/daghaghi21a/daghaghi21a.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://proceedings.mlr.press/v161/daghaghi21a/daghaghi21a.pdf&ved=2ahUKEwjwlLLEqPaEAxWaMzQIHRltDcUQFnoECBoQAQ",
+            "displayed_link": "https://proceedings.mlr.press › ...",
+            "favicon": "https://serpapi.com/searches/65f4456dd5b1c52ea60cb176/images/9117c2d6722dbf52fd6b25deaa4332f68c3676bd48c57db841fef426807020f8.png",
+            "author": "by S Daghaghi",
+            "cited_by": "Cited by 4",
+            "extracted_cited_by": 4,
+            "date": "2021",
+            "snippet": "Zero-Shot Learning (ZSL) is a classification task where some classes referred to as unseen classes have no training images. Instead, we only have side.",
+            "snippet_highlighted_words": [
+                "Zero",
+                "Shot Learning"
+            ],
+            "source": "mlr.press"
+        },
+        {
+            "position": 3,
+            "title": "Co-Representation Network for Generalized Zero-Shot Learning",
+            "link": "http://proceedings.mlr.press/v97/zhang19l/zhang19l.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://proceedings.mlr.press/v97/zhang19l/zhang19l.pdf&ved=2ahUKEwjwlLLEqPaEAxWaMzQIHRltDcUQFnoECBwQAQ",
+            "displayed_link": "http://proceedings.mlr.press › ...",
+            "favicon": "https://serpapi.com/searches/65f4456dd5b1c52ea60cb176/images/9117c2d6722dbf52fd6b25deaa4332f6a91efc74c3b22086cb64bfe9bad35aee.png",
+            "author": "by F Zhang",
+            "cited_by": "Cited by 77",
+            "extracted_cited_by": 77,
+            "date": "2019",
+            "snippet": "Zero-shot learning (ZSL) is an important field in computer vision. It aims at classifying images of unseen classes through establishing mathematical ...",
+            "snippet_highlighted_words": [
+                "Zero",
+                "shot learning"
+            ],
+            "source": "mlr.press"
+        },
+        {
+            "position": 4,
+            "title": "Multi-Label Generalized Zero Shot Learning for the ...",
+            "link": "https://proceedings.mlr.press/v149/hayat21a/hayat21a.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://proceedings.mlr.press/v149/hayat21a/hayat21a.pdf&ved=2ahUKEwjwlLLEqPaEAxWaMzQIHRltDcUQFnoECBgQAQ",
+            "displayed_link": "https://proceedings.mlr.press › ...",
+            "favicon": "https://serpapi.com/searches/65f4456dd5b1c52ea60cb176/images/9117c2d6722dbf52fd6b25deaa4332f6b5e2369ebb339043bc073548fb7aa670.png",
+            "author": "by N Hayat",
+            "cited_by": "Cited by 14",
+            "extracted_cited_by": 14,
+            "date": "2021",
+            "snippet": "(2021), our network can assign multiple labels to a query image and can generalize to an open set of unseen classes since it does not rely on existing reports ...",
+            "source": "mlr.press"
+        },
+        {
+            "position": 5,
+            "title": "A simple and effective model for generalized zero-shot learning",
+            "link": "https://proceedings.mlr.press/v161/daghaghi21a.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://proceedings.mlr.press/v161/daghaghi21a.html&ved=2ahUKEwjwlLLEqPaEAxWaMzQIHRltDcUQFnoECBsQAQ",
+            "displayed_link": "https://proceedings.mlr.press › ...",
+            "favicon": "https://serpapi.com/searches/65f4456dd5b1c52ea60cb176/images/9117c2d6722dbf52fd6b25deaa4332f6e30bcbf18f9956089edbd239bbd46bf6.png",
+            "author": "by S Daghaghi",
+            "cited_by": "Cited by 4",
+            "extracted_cited_by": 4,
+            "date": "2021",
+            "snippet": "Zero-Shot Learning (ZSL) is a classification task where some classes referred to as unseen classes have no training images. Instead, we only have side ...",
+            "snippet_highlighted_words": [
+                "Zero",
+                "Shot Learning"
+            ],
+            "source": "mlr.press"
+        },
+        {
+            "position": 6,
+            "title": "Max-Margin Zero-Shot Learning for Multi-class Classification",
+            "link": "http://proceedings.mlr.press/v38/li15d.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://proceedings.mlr.press/v38/li15d.pdf&ved=2ahUKEwjwlLLEqPaEAxWaMzQIHRltDcUQFnoECBcQAQ",
+            "displayed_link": "http://proceedings.mlr.press › ...",
+            "favicon": "https://serpapi.com/searches/65f4456dd5b1c52ea60cb176/images/9117c2d6722dbf52fd6b25deaa4332f60832e08c0ad2e72798a23910a4ae67aa.png",
+            "author": "by X Li",
+            "cited_by": "Cited by 45",
+            "extracted_cited_by": 45,
+            "date": "2015",
+            "snippet": "Zero-shot learning addresses the challenging problem of knowledge transfer from observed classes to un- seen classes (i.e., novel classes) in which there are no ...",
+            "snippet_highlighted_words": [
+                "Zero",
+                "shot learning"
+            ],
+            "source": "mlr.press"
+        },
+        {
+            "position": 7,
+            "title": "Zero-Shot Task Generalization with Multi-Task Deep ...",
+            "link": "http://proceedings.mlr.press/v70/oh17a/oh17a.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://proceedings.mlr.press/v70/oh17a/oh17a.pdf&ved=2ahUKEwjwlLLEqPaEAxWaMzQIHRltDcUQFnoECBkQAQ",
+            "displayed_link": "http://proceedings.mlr.press › ...",
+            "favicon": "https://serpapi.com/searches/65f4456dd5b1c52ea60cb176/images/9117c2d6722dbf52fd6b25deaa4332f6d2c36a4ae3550e8713e24aa20701ef21.png",
+            "author": "by J Oh",
+            "cited_by": "Cited by 303",
+            "extracted_cited_by": 303,
+            "date": "2017",
+            "snippet": "Generalization: Pre-training of skills can only be done on a subset of subtasks, but the agent is required to per- form previously unseen subtasks (e.g., going ...",
+            "snippet_highlighted_words": [
+                "training"
+            ],
+            "source": "mlr.press"
+        },
+        {
+            "position": 8,
+            "title": "Evolving Semantic Prototype Improves Generative Zero-Shot ...",
+            "link": "https://proceedings.mlr.press/v202/chen23l/chen23l.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://proceedings.mlr.press/v202/chen23l/chen23l.pdf&ved=2ahUKEwjwlLLEqPaEAxWaMzQIHRltDcUQFnoECC4QAQ",
+            "displayed_link": "https://proceedings.mlr.press › ...",
+            "favicon": "https://serpapi.com/searches/65f4456dd5b1c52ea60cb176/images/9117c2d6722dbf52fd6b25deaa4332f65d43253678dcc6f79d6ad8ba2c86719d.png",
+            "author": "by S Chen",
+            "cited_by": "Cited by 1",
+            "extracted_cited_by": 1,
+            "date": "2023",
+            "snippet": "In zero-shot learning (ZSL), generative methods synthesize class-related sample features based on predefined semantic prototypes. They advance the.",
+            "snippet_highlighted_words": [
+                "zero",
+                "shot learning"
+            ],
+            "source": "mlr.press"
+        },
+        {
+            "position": 9,
+            "title": "Zero-Shot Knowledge Distillation in Deep Networks",
+            "link": "http://proceedings.mlr.press/v97/nayak19a/nayak19a.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://proceedings.mlr.press/v97/nayak19a/nayak19a.pdf&ved=2ahUKEwjwlLLEqPaEAxWaMzQIHRltDcUQFnoECDIQAQ",
+            "displayed_link": "http://proceedings.mlr.press › ...",
+            "favicon": "https://serpapi.com/searches/65f4456dd5b1c52ea60cb176/images/9117c2d6722dbf52fd6b25deaa4332f6d22c5463d1b04241879377d730dbcef8.png",
+            "author": "by GK Nayak",
+            "cited_by": "Cited by 237",
+            "extracted_cited_by": 237,
+            "date": "2019",
+            "snippet": "Abstract. Knowledge distillation deals with the problem of training a smaller model (Student) from a high ca- pacity source model (Teacher) so as to retain ...",
+            "snippet_highlighted_words": [
+                "training"
+            ],
+            "source": "mlr.press"
+        },
+        {
+            "position": 10,
+            "title": "Context-Aware Zero-Shot Learning for Object Recognition",
+            "link": "http://proceedings.mlr.press/v97/zablocki19a/zablocki19a.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://proceedings.mlr.press/v97/zablocki19a/zablocki19a.pdf&ved=2ahUKEwjwlLLEqPaEAxWaMzQIHRltDcUQFnoECC8QAQ",
+            "displayed_link": "http://proceedings.mlr.press › ...",
+            "favicon": "https://serpapi.com/searches/65f4456dd5b1c52ea60cb176/images/9117c2d6722dbf52fd6b25deaa4332f6260d26a7aa53fd882e602793f949ef2e.png",
+            "author": "by E Zablocki",
+            "cited_by": "Cited by 38",
+            "extracted_cited_by": 38,
+            "date": "2019",
+            "snippet": "Abstract. Zero-Shot Learning (ZSL) aims at classifying unlabeled objects by leveraging auxiliary knowl- edge, such as semantic representations. A limita-.",
+            "snippet_highlighted_words": [
+                "Zero",
+                "Shot Learning"
+            ],
+            "source": "mlr.press"
+        }
+    ],
+    "related_searches": [
+        {
+            "block_position": 1,
+            "query": "Zero shot learning pdf",
+            "link": "https://www.google.com/search?sca_esv=cbde20439333e335&q=Zero+shot+learning+pdf&sa=X&ved=2ahUKEwjwlLLEqPaEAxWaMzQIHRltDcUQ1QJ6BAgtEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=Zero+shot+learning+pdf"
+        },
+        {
+            "block_position": 1,
+            "query": "Zero shot learning github",
+            "link": "https://www.google.com/search?sca_esv=cbde20439333e335&q=Zero+shot+learning+github&sa=X&ved=2ahUKEwjwlLLEqPaEAxWaMzQIHRltDcUQ1QJ6BAgsEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=Zero+shot+learning+github"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=site%3Aproceedings.mlr.press+Zero-shot+learning&oq=site%3Aproceedings.mlr.press+Zero-shot+learning&start=10&sourceid=chrome&ie=UTF-8",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=site%3Aproceedings.mlr.press+Zero-shot+learning&oq=site%3Aproceedings.mlr.press+Zero-shot+learning&start=10&sourceid=chrome&ie=UTF-8",
+            "3": "https://www.google.com/search?q=site%3Aproceedings.mlr.press+Zero-shot+learning&oq=site%3Aproceedings.mlr.press+Zero-shot+learning&start=20&sourceid=chrome&ie=UTF-8",
+            "4": "https://www.google.com/search?q=site%3Aproceedings.mlr.press+Zero-shot+learning&oq=site%3Aproceedings.mlr.press+Zero-shot+learning&start=30&sourceid=chrome&ie=UTF-8",
+            "5": "https://www.google.com/search?q=site%3Aproceedings.mlr.press+Zero-shot+learning&oq=site%3Aproceedings.mlr.press+Zero-shot+learning&start=40&sourceid=chrome&ie=UTF-8"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aproceedings.mlr.press+Zero-shot+learning&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aproceedings.mlr.press+Zero-shot+learning&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aproceedings.mlr.press+Zero-shot+learning&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aproceedings.mlr.press+Zero-shot+learning&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aproceedings.mlr.press+Zero-shot+learning&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aproceedings.mlr.press+Zero-shot+learning&start=40"
+        }
+    }
+}

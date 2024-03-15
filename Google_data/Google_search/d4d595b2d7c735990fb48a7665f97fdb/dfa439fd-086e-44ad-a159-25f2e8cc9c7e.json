@@ -1,0 +1,216 @@
+{
+    "search_metadata": {
+        "id": "65f44580d036a702d57365eb",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/3c85c70c9cbd992a/65f44580d036a702d57365eb.json",
+        "created_at": "2024-03-15 12:56:32 UTC",
+        "processed_at": "2024-03-15 12:56:32 UTC",
+        "google_url": "https://www.google.com/search?q=site%3Apapers.nips.cc+Zero-shot+learning&oq=site%3Apapers.nips.cc+Zero-shot+learning&uule=w+CAIQICIFSW5kaWE&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/3c85c70c9cbd992a/65f44580d036a702d57365eb.html",
+        "total_time_taken": 2.79
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "site:papers.nips.cc Zero-shot learning",
+        "location_requested": "India",
+        "location_used": "India",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "site:papers.nips.cc Zero-shot learning",
+        "total_results": 1960,
+        "time_taken_displayed": 0.35,
+        "organic_results_state": "Results for exact spelling"
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Zero-Shot Learning Through Cross-Modal Transfer",
+            "link": "http://papers.nips.cc/paper/5027-zero-shot-learning-through-cross-modal-transfer.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://papers.nips.cc/paper/5027-zero-shot-learning-through-cross-modal-transfer.pdf&ved=2ahUKEwjv9JnNqPaEAxXI6ckDHVwQAv0QFnoECBgQAQ",
+            "displayed_link": "http://papers.nips.cc › paper › 5027-zero-shot-le...",
+            "favicon": "https://serpapi.com/searches/65f44580d036a702d57365eb/images/24258d1d2f598e731db1f90a9fd1bf5c0c6a1dc5a2b0e103ce866b53dd269d69.png",
+            "author": "by R Socher",
+            "cited_by": "Cited by 1673",
+            "snippet": "This work introduces a model that can recognize objects in images even if no training data is available for the object class. The only necessary knowledge about.",
+            "snippet_highlighted_words": [
+                "training"
+            ],
+            "source": "nips.cc"
+        },
+        {
+            "position": 2,
+            "title": "Zero-shot Learning via Simultaneous Generating and ...",
+            "link": "http://papers.nips.cc/paper/8300-zero-shot-learning-via-simultaneous-generating-and-learning.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://papers.nips.cc/paper/8300-zero-shot-learning-via-simultaneous-generating-and-learning.pdf&ved=2ahUKEwjv9JnNqPaEAxXI6ckDHVwQAv0QFnoECBcQAQ",
+            "displayed_link": "http://papers.nips.cc › paper › 8300-zero-shot-le...",
+            "favicon": "https://serpapi.com/searches/65f44580d036a702d57365eb/images/24258d1d2f598e731db1f90a9fd1bf5cf8561316786971fbd7c10ebdfc2e7d95.png",
+            "author": "by H Yu",
+            "cited_by": "Cited by 52",
+            "snippet": "Zero-shot learning (ZSL) is a learning paradigm that proposes an elegant way to fulfill this desideratum by utilizing semantic descriptions of seen and ...",
+            "snippet_highlighted_words": [
+                "Zero",
+                "shot learning"
+            ],
+            "source": "nips.cc"
+        },
+        {
+            "position": 3,
+            "title": "Zero-shot recognition with unreliable attributes",
+            "link": "https://papers.nips.cc/paper/5290-zero-shot-recognition-with-unreliable-attributes",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://papers.nips.cc/paper/5290-zero-shot-recognition-with-unreliable-attributes&ved=2ahUKEwjv9JnNqPaEAxXI6ckDHVwQAv0QFnoECBoQAQ",
+            "displayed_link": "https://papers.nips.cc › paper › 5290-zero-shot-recognit...",
+            "favicon": "https://serpapi.com/searches/65f44580d036a702d57365eb/images/24258d1d2f598e731db1f90a9fd1bf5c27a1173a324bb8fdec81162d8ba1faad.png",
+            "author": "by D Jayaraman",
+            "cited_by": "Cited by 343",
+            "extracted_cited_by": 343,
+            "date": "2014",
+            "snippet": "We propose a novel random forest approach to train zero-shot models that explicitly accounts for the unreliability of attribute predictions. By leveraging ...",
+            "snippet_highlighted_words": [
+                "zero",
+                "shot"
+            ],
+            "source": "nips.cc"
+        },
+        {
+            "position": 4,
+            "title": "HSVA: Hierarchical Semantic-Visual Adaptation for Zero- ...",
+            "link": "https://papers.nips.cc/paper_files/paper/2021/file/8b0d268963dd0cfb808aac48a549829f-Paper.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://papers.nips.cc/paper_files/paper/2021/file/8b0d268963dd0cfb808aac48a549829f-Paper.pdf&ved=2ahUKEwjv9JnNqPaEAxXI6ckDHVwQAv0QFnoECBUQAQ",
+            "displayed_link": "https://papers.nips.cc › paper_files › paper › file",
+            "favicon": "https://serpapi.com/searches/65f44580d036a702d57365eb/images/24258d1d2f598e731db1f90a9fd1bf5cd8f8e12ae77002f27fd81983a1a67b46.png",
+            "author": "by S Chen",
+            "cited_by": "Cited by 69",
+            "extracted_cited_by": 69,
+            "date": "2021",
+            "snippet": "Zero-shot learning (ZSL) tackles the unseen class recognition problem, transferring semantic knowledge from seen classes to unseen ones.",
+            "snippet_highlighted_words": [
+                "Zero",
+                "shot learning"
+            ],
+            "source": "nips.cc"
+        },
+        {
+            "position": 5,
+            "title": "Zero-Shot Semantic Segmentation",
+            "link": "https://papers.nips.cc/paper/8338-zero-shot-semantic-segmentation.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://papers.nips.cc/paper/8338-zero-shot-semantic-segmentation.pdf&ved=2ahUKEwjv9JnNqPaEAxXI6ckDHVwQAv0QFnoECBMQAQ",
+            "displayed_link": "https://papers.nips.cc › paper › 8338-zero-shot-s...",
+            "favicon": "https://serpapi.com/searches/65f44580d036a702d57365eb/images/24258d1d2f598e731db1f90a9fd1bf5cb80345f7bd19fbcbed735c8e6f8a1230.png",
+            "author": "by M Bucher",
+            "cited_by": "Cited by 245",
+            "snippet": "In this paper, we introduce the new task of zero-shot semantic segmentation: learning pixel-wise classifiers for never-seen object categories with zero training ...",
+            "snippet_highlighted_words": [
+                "zero",
+                "shot",
+                "learning",
+                "zero training"
+            ],
+            "source": "nips.cc"
+        },
+        {
+            "position": 6,
+            "title": "Generating Training Data with Language Models",
+            "link": "https://papers.nips.cc/paper_files/paper/2022/hash/0346c148ba1c21c6b4780a961ea141dc-Abstract-Conference.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://papers.nips.cc/paper_files/paper/2022/hash/0346c148ba1c21c6b4780a961ea141dc-Abstract-Conference.html&ved=2ahUKEwjv9JnNqPaEAxXI6ckDHVwQAv0QFnoECBQQAQ",
+            "displayed_link": "https://papers.nips.cc › paper_files › paper › hash",
+            "favicon": "https://serpapi.com/searches/65f44580d036a702d57365eb/images/24258d1d2f598e731db1f90a9fd1bf5c82d53869eca3b9216ba2dcebc767f8be.png",
+            "author": "by Y Meng",
+            "cited_by": "Cited by 105",
+            "extracted_cited_by": 105,
+            "date": "2022",
+            "snippet": "In this paper, we present a simple approach that uses both types of PLMs for fully zero-shot learning of NLU tasks without requiring any task-specific data: A ...",
+            "snippet_highlighted_words": [
+                "zero",
+                "shot learning"
+            ],
+            "source": "nips.cc"
+        },
+        {
+            "position": 7,
+            "title": "Large Language Models are Zero-Shot Reasoners",
+            "link": "https://papers.nips.cc/paper_files/paper/2022/file/8bb0d291acd4acf06ef112099c16f326-Paper-Conference.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://papers.nips.cc/paper_files/paper/2022/file/8bb0d291acd4acf06ef112099c16f326-Paper-Conference.pdf&ved=2ahUKEwjv9JnNqPaEAxXI6ckDHVwQAv0QFnoECBkQAQ",
+            "displayed_link": "https://papers.nips.cc › paper_files › paper › file",
+            "favicon": "https://serpapi.com/searches/65f44580d036a702d57365eb/images/24258d1d2f598e731db1f90a9fd1bf5cf5373803d80a8db8977dbb14181bf9bf.png",
+            "author": "by T Kojima",
+            "cited_by": "Cited by 1614",
+            "extracted_cited_by": 1614,
+            "date": "2022",
+            "snippet": "Pretrained large language models (LLMs) are widely used in many sub-fields of natural language processing (NLP) and generally known as excellent few-shot.",
+            "snippet_highlighted_words": [
+                "shot"
+            ],
+            "source": "nips.cc"
+        },
+        {
+            "position": 8,
+            "title": "Generalized Zero-Shot Learning with Deep Calibration ...",
+            "link": "https://papers.nips.cc/paper/7471-generalized-zero-shot-learning-with-deep-calibration-network",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://papers.nips.cc/paper/7471-generalized-zero-shot-learning-with-deep-calibration-network&ved=2ahUKEwjv9JnNqPaEAxXI6ckDHVwQAv0QFnoECCkQAQ",
+            "displayed_link": "https://papers.nips.cc › paper › 7471-generalized-zero-s...",
+            "favicon": "https://serpapi.com/searches/65f44580d036a702d57365eb/images/24258d1d2f598e731db1f90a9fd1bf5ccd8464ed501687a4aff6a9a3d487a4ee.png",
+            "author": "by S Liu",
+            "cited_by": "Cited by 246",
+            "extracted_cited_by": 246,
+            "date": "2018",
+            "snippet": "In this paper, we study generalized zero-shot learning that assumes accessible to target classes for unseen data during training, and prediction on unseen data ...",
+            "snippet_highlighted_words": [
+                "zero",
+                "shot learning"
+            ],
+            "source": "nips.cc"
+        },
+        {
+            "position": 9,
+            "title": "A causal view of compositional zero-shot recognition",
+            "link": "https://papers.nips.cc/paper/2020/file/1010cedf85f6a7e24b087e63235dc12e-Paper.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://papers.nips.cc/paper/2020/file/1010cedf85f6a7e24b087e63235dc12e-Paper.pdf&ved=2ahUKEwjv9JnNqPaEAxXI6ckDHVwQAv0QFnoECCoQAQ",
+            "displayed_link": "https://papers.nips.cc › paper › file",
+            "favicon": "https://serpapi.com/searches/65f44580d036a702d57365eb/images/24258d1d2f598e731db1f90a9fd1bf5c0a51536697db532ff4b687913329bde4.png",
+            "author": "by Y Atzmon",
+            "cited_by": "Cited by 103",
+            "extracted_cited_by": 103,
+            "date": "2020",
+            "snippet": "Compositional zero-shot recognition is the problem of learning to recognize new combinations of known components. People seamlessly recognize and generate new ...",
+            "snippet_highlighted_words": [
+                "zero",
+                "shot",
+                "learning"
+            ],
+            "source": "nips.cc"
+        },
+        {
+            "position": 10,
+            "title": "Zero-shot Learning with Semantic Output Codes - NIPS papers",
+            "link": "https://papers.nips.cc/paper/3650-zero-shot-learning-with-semantic-output-codes",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://papers.nips.cc/paper/3650-zero-shot-learning-with-semantic-output-codes&ved=2ahUKEwjv9JnNqPaEAxXI6ckDHVwQAv0QFnoECC8QAQ",
+            "displayed_link": "https://papers.nips.cc › paper › 3650-zero-shot-learning...",
+            "favicon": "https://serpapi.com/searches/65f44580d036a702d57365eb/images/24258d1d2f598e731db1f90a9fd1bf5cff44dbe5abc543c19c749803ffa1e9be.png",
+            "snippet": "As a case study, we build a SOC classifier for a neural decoding task and show that it can often predict words that people are thinking about from functional ...",
+            "source": "nips.cc"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=site%3Apapers.nips.cc+Zero-shot+learning&oq=site%3Apapers.nips.cc+Zero-shot+learning&start=10&sourceid=chrome&ie=UTF-8",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=site%3Apapers.nips.cc+Zero-shot+learning&oq=site%3Apapers.nips.cc+Zero-shot+learning&start=10&sourceid=chrome&ie=UTF-8",
+            "3": "https://www.google.com/search?q=site%3Apapers.nips.cc+Zero-shot+learning&oq=site%3Apapers.nips.cc+Zero-shot+learning&start=20&sourceid=chrome&ie=UTF-8",
+            "4": "https://www.google.com/search?q=site%3Apapers.nips.cc+Zero-shot+learning&oq=site%3Apapers.nips.cc+Zero-shot+learning&start=30&sourceid=chrome&ie=UTF-8",
+            "5": "https://www.google.com/search?q=site%3Apapers.nips.cc+Zero-shot+learning&oq=site%3Apapers.nips.cc+Zero-shot+learning&start=40&sourceid=chrome&ie=UTF-8"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Apapers.nips.cc+Zero-shot+learning&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Apapers.nips.cc+Zero-shot+learning&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Apapers.nips.cc+Zero-shot+learning&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Apapers.nips.cc+Zero-shot+learning&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Apapers.nips.cc+Zero-shot+learning&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Apapers.nips.cc+Zero-shot+learning&start=40"
+        }
+    }
+}

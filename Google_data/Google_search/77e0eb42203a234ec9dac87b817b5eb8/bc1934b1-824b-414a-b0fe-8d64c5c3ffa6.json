@@ -1,0 +1,328 @@
+{
+    "search_metadata": {
+        "id": "65f4458b437af2c91ea03993",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/5d13a464cfdd3838/65f4458b437af2c91ea03993.json",
+        "created_at": "2024-03-15 12:56:43 UTC",
+        "processed_at": "2024-03-15 12:56:43 UTC",
+        "google_url": "https://www.google.com/search?q=site%3Ahttps%3A%2F%2Flink.springer.com+Zero-shot+learning&oq=site%3Ahttps%3A%2F%2Flink.springer.com+Zero-shot+learning&uule=w+CAIQICIFSW5kaWE&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/5d13a464cfdd3838/65f4458b437af2c91ea03993.html",
+        "total_time_taken": 17.2
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "site:https://link.springer.com Zero-shot learning",
+        "location_requested": "India",
+        "location_used": "India",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "site:https://link.springer.com Zero-shot learning",
+        "total_results": 52900,
+        "time_taken_displayed": 0.28,
+        "organic_results_state": "Results for exact spelling"
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Zero-Shot Learning via Visual Abstraction",
+            "link": "https://link.springer.com/chapter/10.1007/978-3-319-10593-2_27",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://link.springer.com/chapter/10.1007/978-3-319-10593-2_27&ved=2ahUKEwie7q7ZqPaEAxWQL9AFHSoqBMwQFnoECBQQAQ",
+            "displayed_link": "https://link.springer.com › chapter",
+            "author": "by S Antol",
+            "cited_by": "Cited by 118",
+            "extracted_cited_by": 118,
+            "date": "2014",
+            "snippet": "Abstract. One of the main challenges in learning fine-grained visual categories is gathering training images. Recent work in Zero-Shot Learning (ZSL) ...",
+            "snippet_highlighted_words": [
+                "Zero",
+                "Shot Learning"
+            ],
+            "source": "springer.com"
+        },
+        {
+            "position": 2,
+            "title": "Class-Incremental Generalized Zero-Shot Learning",
+            "link": "https://link.springer.com/article/10.1007/s11042-023-16316-7",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://link.springer.com/article/10.1007/s11042-023-16316-7&ved=2ahUKEwie7q7ZqPaEAxWQL9AFHSoqBMwQFnoECBMQAQ",
+            "displayed_link": "https://link.springer.com › article",
+            "author": "by Z Sun",
+            "cited_by": "Cited by 2",
+            "extracted_cited_by": 2,
+            "date": "2023",
+            "snippet": "Zero-Shot Learning (ZSL) focuses on transferring knowledge learned from the source domain to the target domain. In the classic setting, ...",
+            "snippet_highlighted_words": [
+                "Zero",
+                "Shot Learning"
+            ],
+            "source": "springer.com"
+        },
+        {
+            "position": 3,
+            "title": "Learning semantic ambiguities for zero-shot learning",
+            "link": "https://link.springer.com/article/10.1007/s11042-023-14877-1",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://link.springer.com/article/10.1007/s11042-023-14877-1&ved=2ahUKEwie7q7ZqPaEAxWQL9AFHSoqBMwQFnoECBUQAQ",
+            "displayed_link": "https://link.springer.com › article",
+            "author": "by C Hanouti",
+            "cited_by": "Cited by 3",
+            "extracted_cited_by": 3,
+            "date": "2023",
+            "snippet": "Abstract. Zero-shot learning (ZSL) aims at recognizing classes for which no visual sample is available at training time. To address this issue, ...",
+            "snippet_highlighted_words": [
+                "Zero",
+                "shot learning"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Learning Semantic...",
+                        "link": "https://link.springer.com/article/10.1007/s11042-023-14877-1#:~:text=Learning%20semantic%20ambiguities%20for%20zero%2Dshot%20learning,-Open%20access"
+                    },
+                    {
+                        "title": "3 Method",
+                        "link": "https://link.springer.com/article/10.1007/s11042-023-14877-1#:~:text=3%20Method"
+                    },
+                    {
+                        "title": "4 Experimental Evaluation",
+                        "link": "https://link.springer.com/article/10.1007/s11042-023-14877-1#:~:text=4%20Experimental%20evaluation"
+                    }
+                ]
+            },
+            "source": "springer.com"
+        },
+        {
+            "position": 4,
+            "title": "A study on zero-shot learning from semantic viewpoint",
+            "link": "https://link.springer.com/article/10.1007/s00371-022-02470-w",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://link.springer.com/article/10.1007/s00371-022-02470-w&ved=2ahUKEwie7q7ZqPaEAxWQL9AFHSoqBMwQFnoECBYQAQ",
+            "displayed_link": "https://link.springer.com › The Visual Computer",
+            "author": "by PK Bhagat",
+            "cited_by": "Cited by 2",
+            "extracted_cited_by": 2,
+            "date": "2023",
+            "snippet": "The proposed method uses a joint learning framework that learns from the source and target data simultaneously by creating a common space. This ...",
+            "snippet_highlighted_words": [
+                "learning"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Zero-Shot Learning With...",
+                        "link": "https://link.springer.com/article/10.1007/s00371-022-02470-w#:~:text=Zero%2DShot%20Learning%20with%20Superclasses"
+                    },
+                    {
+                        "title": "1 Introduction",
+                        "link": "https://link.springer.com/article/10.1007/s00371-022-02470-w#:~:text=1%20Introduction"
+                    },
+                    {
+                        "title": "3 Types Of Zsl Method",
+                        "link": "https://link.springer.com/article/10.1007/s00371-022-02470-w#:~:text=3%20Types%20of%20ZSL%20method"
+                    }
+                ]
+            },
+            "source": "springer.com"
+        },
+        {
+            "position": 5,
+            "title": "Information bottleneck and selective noise supervision for ...",
+            "link": "https://link.springer.com/article/10.1007/s10994-022-06196-7",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://link.springer.com/article/10.1007/s10994-022-06196-7&ved=2ahUKEwie7q7ZqPaEAxWQL9AFHSoqBMwQFnoECBAQAQ",
+            "displayed_link": "https://link.springer.com › Machine Learning",
+            "author": "by L Zhou",
+            "cited_by": "Cited by 5",
+            "extracted_cited_by": 5,
+            "date": "2023",
+            "snippet": "Zero-shot learning (ZSL) aims to recognize novel classes by transferring semantic knowledge from seen classes to unseen classes.",
+            "snippet_highlighted_words": [
+                "Zero",
+                "shot learning"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "1 Introduction",
+                        "link": "https://link.springer.com/article/10.1007/s10994-022-06196-7#:~:text=1%20Introduction"
+                    },
+                    {
+                        "title": "3 Proposed Method",
+                        "link": "https://link.springer.com/article/10.1007/s10994-022-06196-7#:~:text=3%20Proposed%20method"
+                    },
+                    {
+                        "title": "4 Experiments",
+                        "link": "https://link.springer.com/article/10.1007/s10994-022-06196-7#:~:text=4%20Experiments"
+                    }
+                ]
+            },
+            "source": "springer.com"
+        },
+        {
+            "position": 6,
+            "title": "From zero-shot machine learning to zero-day attack detection",
+            "link": "https://link.springer.com/article/10.1007/s10207-023-00676-0",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://link.springer.com/article/10.1007/s10207-023-00676-0&ved=2ahUKEwie7q7ZqPaEAxWQL9AFHSoqBMwQFnoECCMQAQ",
+            "displayed_link": "https://link.springer.com › article",
+            "author": "by M Sarhan",
+            "cited_by": "Cited by 27",
+            "extracted_cited_by": 27,
+            "date": "2023",
+            "snippet": "Zero-shot learning (ZSL) is an emerging methodology used to evaluate and improve the generalisability of ML models to new or unseen data classes ...",
+            "snippet_highlighted_words": [
+                "Zero",
+                "shot learning"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Machine Learning For...",
+                        "link": "https://link.springer.com/article/10.1007/s10207-023-00676-0#:~:text=Machine%20Learning%20for%20Intelligent%20Data%20Analysis%20and%20Automation%20in%20Cybersecurity%3A%20Current%20and%20Future%20Prospects"
+                    },
+                    {
+                        "title": "1 Introduction",
+                        "link": "https://link.springer.com/article/10.1007/s10207-023-00676-0#:~:text=1%20Introduction"
+                    },
+                    {
+                        "title": "5 Evaluation",
+                        "link": "https://link.springer.com/article/10.1007/s10207-023-00676-0#:~:text=5%20Evaluation"
+                    }
+                ]
+            },
+            "source": "springer.com"
+        },
+        {
+            "position": 7,
+            "title": "Zero-shot learning via self-organizing maps",
+            "link": "https://link.springer.com/article/10.1007/s00521-023-08299-1",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://link.springer.com/article/10.1007/s00521-023-08299-1&ved=2ahUKEwie7q7ZqPaEAxWQL9AFHSoqBMwQFnoECCUQAQ",
+            "displayed_link": "https://link.springer.com › article",
+            "author": "by F Ismailoglu",
+            "date": "2023",
+            "snippet": "Instead of starting with completely random vectors, this approach determines the weight vectors based on linear combinations of the first two ...",
+            "source": "springer.com"
+        },
+        {
+            "position": 8,
+            "title": "Dynamic visual-guided selection for zero-shot learning",
+            "link": "https://link.springer.com/article/10.1007/s11227-023-05625-1",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://link.springer.com/article/10.1007/s11227-023-05625-1&ved=2ahUKEwie7q7ZqPaEAxWQL9AFHSoqBMwQFnoECCQQAQ",
+            "displayed_link": "https://link.springer.com › article",
+            "author": "by Y Zhou",
+            "cited_by": "Cited by 1",
+            "extracted_cited_by": 1,
+            "date": "2024",
+            "snippet": "Zero-shot learning (ZSL) methods currently employed to identify seen or unseen classes rely on semantic attribute prototypes or class ...",
+            "snippet_highlighted_words": [
+                "Zero",
+                "shot learning"
+            ],
+            "source": "springer.com"
+        },
+        {
+            "position": 9,
+            "title": "An effective zero-shot learning approach for intelligent fault ...",
+            "link": "https://link.springer.com/article/10.1007/s10489-022-04342-1",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://link.springer.com/article/10.1007/s10489-022-04342-1&ved=2ahUKEwie7q7ZqPaEAxWQL9AFHSoqBMwQFnoECCcQAQ",
+            "displayed_link": "https://link.springer.com › Applied Intelligence",
+            "author": "by S Zhang",
+            "cited_by": "Cited by 9",
+            "extracted_cited_by": 9,
+            "date": "2023",
+            "snippet": "ZSL provides a powerful tool for solving the unseen fault detection problem concerned in this work, and a reasonable solution is to combine ...",
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "2 Relevant Literate Review",
+                        "link": "https://link.springer.com/article/10.1007/s10489-022-04342-1#:~:text=2%20Relevant%20literate%20review"
+                    },
+                    {
+                        "title": "4 Experiments",
+                        "link": "https://link.springer.com/article/10.1007/s10489-022-04342-1#:~:text=4%20Experiments"
+                    },
+                    {
+                        "title": "4.1 The Case Western Reserve...",
+                        "link": "https://link.springer.com/article/10.1007/s10489-022-04342-1#:~:text=4.1%20The%20Case%20Western%20Reserve%20University%20%28CWRU%29%20dataset"
+                    }
+                ]
+            },
+            "source": "springer.com"
+        },
+        {
+            "position": 10,
+            "title": "Semantics-Guided Intra-Category Knowledge Transfer for ...",
+            "link": "https://link.springer.com/article/10.1007/s11263-023-01767-0",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://link.springer.com/article/10.1007/s11263-023-01767-0&ved=2ahUKEwie7q7ZqPaEAxWQL9AFHSoqBMwQFnoECCsQAQ",
+            "displayed_link": "https://link.springer.com › article",
+            "author": "by FE Yang",
+            "cited_by": "Cited by 4",
+            "extracted_cited_by": 4,
+            "date": "2023",
+            "snippet": "Zero-shot learning (ZSL) requires one to associate visual and semantic information observed from data of seen classes, so that test data of ...",
+            "snippet_highlighted_words": [
+                "Zero",
+                "shot learning"
+            ],
+            "source": "springer.com"
+        }
+    ],
+    "scholarly_articles": {
+        "title": "Scholarly articles for site:https://link.springer.com Zero-shot learning",
+        "link": "https://scholar.google.com/scholar?q=site:https://link.springer.com+Zero-shot+learning&hl=en&as_sdt=0&as_vis=1&oi=scholart",
+        "serpapi_link": "https://serpapi.com/search.json?as_sdt=0&as_vis=1&engine=google_scholar&hl=en&q=site%3Ahttps%3A%2F%2Flink.springer.com+Zero-shot+learning",
+        "articles": [
+            {
+                "title": "Research progress of zero-shot learning",
+                "link": "https://link.springer.com/article/10.1007/s10489-020-02075-7",
+                "highlighted_words": [
+                    "zero",
+                    "shot learning"
+                ],
+                "author": "‎Sun",
+                "cited_by": "Cited by 30",
+                "extracted_cited_by_number": 30
+            },
+            {
+                "title": "… exponential family framework for zero-shot learning",
+                "link": "https://link.springer.com/chapter/10.1007/978-3-319-71246-8_48",
+                "highlighted_words": [
+                    "zero",
+                    "shot learning"
+                ],
+                "author": "‎Verma",
+                "cited_by": "Cited by 228",
+                "extracted_cited_by_number": 228
+            },
+            {
+                "title": "Research progress of zero-shot learning beyond …",
+                "link": "https://link.springer.com/chapter/10.1007/978-3-030-60239-0_36",
+                "highlighted_words": [
+                    "zero",
+                    "shot learning"
+                ],
+                "author": "‎Cao",
+                "cited_by": "Cited by 16",
+                "extracted_cited_by_number": 16
+            }
+        ]
+    },
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=site%3Ahttps%3A%2F%2Flink.springer.com+Zero-shot+learning&oq=site%3Ahttps%3A%2F%2Flink.springer.com+Zero-shot+learning&start=10&sourceid=chrome&ie=UTF-8",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=site%3Ahttps%3A%2F%2Flink.springer.com+Zero-shot+learning&oq=site%3Ahttps%3A%2F%2Flink.springer.com+Zero-shot+learning&start=10&sourceid=chrome&ie=UTF-8",
+            "3": "https://www.google.com/search?q=site%3Ahttps%3A%2F%2Flink.springer.com+Zero-shot+learning&oq=site%3Ahttps%3A%2F%2Flink.springer.com+Zero-shot+learning&start=20&sourceid=chrome&ie=UTF-8",
+            "4": "https://www.google.com/search?q=site%3Ahttps%3A%2F%2Flink.springer.com+Zero-shot+learning&oq=site%3Ahttps%3A%2F%2Flink.springer.com+Zero-shot+learning&start=30&sourceid=chrome&ie=UTF-8",
+            "5": "https://www.google.com/search?q=site%3Ahttps%3A%2F%2Flink.springer.com+Zero-shot+learning&oq=site%3Ahttps%3A%2F%2Flink.springer.com+Zero-shot+learning&start=40&sourceid=chrome&ie=UTF-8"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Ahttps%3A%2F%2Flink.springer.com+Zero-shot+learning&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Ahttps%3A%2F%2Flink.springer.com+Zero-shot+learning&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Ahttps%3A%2F%2Flink.springer.com+Zero-shot+learning&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Ahttps%3A%2F%2Flink.springer.com+Zero-shot+learning&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Ahttps%3A%2F%2Flink.springer.com+Zero-shot+learning&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Ahttps%3A%2F%2Flink.springer.com+Zero-shot+learning&start=40"
+        }
+    }
+}
